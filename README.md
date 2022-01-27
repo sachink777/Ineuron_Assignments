@@ -1,2 +1,2 @@
-# Ineuron_Assignments
+Python_Basic_Assignments
 Assignments Basic Python
