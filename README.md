@@ -4,9 +4,10 @@ Pyhton Basic :
 
 Assignment_1  --- 
 
-In the below elements which of them are values or an expression? eg:- values can be integer or string and expressions will be mathematical operators.
+1) In the below elements which of them are values or an expression? eg:- values can be integer or string and expressions will be mathematical operators.
 'hello'-87.8-/+6
-What is the difference between string and variable?
+
+2) What is the difference between string and variable?
 Describe three different data types.
 What is an expression made up of? What do all expressions do?
 This assignment statements, like spam = 10. What is the difference between an expression and a statement?
