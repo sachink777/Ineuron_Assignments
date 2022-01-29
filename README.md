@@ -1,4 +1,9 @@
-Assignment_1
+Pyhton Basic :
+
+
+
+Assignment_1  --- 
+
 In the below elements which of them are values or an expression? eg:- values can be integer or string and expressions will be mathematical operators.
 'hello'-87.8-/+6
 What is the difference between string and variable?
@@ -12,7 +17,9 @@ What three functions can be used to get the integer, floating-point number, or s
 Why does this expression cause an error? How can you fix it? 'I have eaten ' + 99 + ' burritos.'
 
 
-Assignment_2
+Assignment_2  ---
+
+
 What are the two values of the Boolean data type? How do you write them?
 
 What are the three different types of Boolean operators?
@@ -41,7 +48,9 @@ If you had a function named bacon() inside a module named spam, how would you ca
 
 
 
-Assignment_3
+Assignment_3  ---
+
+
 Why are functions advantageous to have in your programs?
 When does the code in a function run: when it's specified or when it's called?
 What statement creates a function?
@@ -58,7 +67,9 @@ What can you do to save a programme from crashing if it encounters an error?
 What is the purpose of the try clause? What is the purpose of the except clause?
 
 
-Assignment_4
+Assignment_4  ---
+
+
 What exactly is []?
 In a list of values stored in a variable called spam, how would you assign the value 'hello' as the third value? (Assume [2, 4, 6, 8, 10] are in spam.) Let's pretend the spam includes the list ['a', 'b', 'c', 'd'] for the next three queries.
 What is the value of spam[int(int('3' * 2) / 11)]?
@@ -78,7 +89,9 @@ Variables that "contain" list values are not necessarily lists themselves. Inste
 How do you distinguish between copy.copy() and copy.deepcopy()?
 
 
-Assignment_5
+Assignment_5  --- 
+
+
 What does an empty dictionary's code look like?
 What is the value of a dictionary value with the key 'foo' and the value 42?
 What is the most significant distinction between a dictionary and a list?
@@ -89,7 +102,9 @@ What is a shortcut for the following code? if 'color' not in spam: spam['color']
 How do you "pretty print" dictionary values using which module and function?
 
 
-Assignment_6
+Assignment_6  ---- 
+
+
 What are escape characters, and how do you use them?
 What do the escape characters n and t stand for?
 What is the way to include backslash characters in a string?
@@ -102,7 +117,9 @@ What are the methods for right-justifying, left-justifying, and centering a stri
 What is the best way to remove whitespace characters from the start or end?
 
 
-Assignment_7
+Assignment_7  --- 
+
+
 What is the name of the feature responsible for generating Regex objects?
 
 Why do raw strings often appear in Regex objects?
@@ -149,7 +166,9 @@ How would you write a regex that matches a sentence where the first word is eith
 
 
 
-Assignment_8
+Assignment_8  -- 
+
+
 Is the Python Standard Library included with PyInputPlus?
 Why is PyInputPlus commonly imported with import pyinputplus as pypi?
 How do you distinguish between inputInt() and inputFloat()?
@@ -159,7 +178,9 @@ If a blank input is entered three times, what does inputStr(limit=3) do?
 If blank input is entered three times, what does inputStr(limit=3, default='hello') do?
 
 
-Assignment_9
+Assignment_9 --- 
+
+
 To what does a relative path refer?
 What does an absolute path start with your operating system?
 What do the functions os.getcwd() and os.chdir() do?
