@@ -3,10 +3,8 @@ Pyhton Basic :
 
 
 Assignment_1  --- 
-
 1) In the below elements which of them are values or an expression? eg:- values can be integer or string and expressions will be mathematical operators.
 'hello'-87.8-/+6
-
 2) What is the difference between string and variable?
 
 3)Describe three different data types.
