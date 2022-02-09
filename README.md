@@ -146,17 +146,17 @@ What is the best way to remove whitespace characters from the start or end?
 Assignment_7  --- 
 
 
-What is the name of the feature responsible for generating Regex objects?
+1)What is the name of the feature responsible for generating Regex objects?
 
-Why do raw strings often appear in Regex objects?
+2)Why do raw strings often appear in Regex objects?
 
-What is the return value of the search() method?
+3)What is the return value of the search() method?
 
-From a Match item, how do you get the actual strings that match the pattern?
+4)From a Match item, how do you get the actual strings that match the pattern?
 
-In the regex which created from the r'(\d\d\d)-(\d\d\d-\d\d\d\d)', what does group zero cover? Group 2? Group 1?
+5)In the regex which created from the r'(\d\d\d)-(\d\d\d-\d\d\d\d)', what does group zero cover? Group 2? Group 1?
 
-In standard expression syntax, parentheses and intervals have distinct meanings. How can you tell a regex that you want it to fit real parentheses and periods?
+6)In standard expression syntax, parentheses and intervals have distinct meanings. How can you tell a regex that you want it to fit real parentheses and periods?
 
 The findall() method returns a string list or a list of string tuples. What causes it to return one of the two options?
 
