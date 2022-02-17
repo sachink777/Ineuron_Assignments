@@ -89,9 +89,11 @@ Assignment_3  ---
 Assignment_4  ---
 
 
-What exactly is []?
-In a list of values stored in a variable called spam, how would you assign the value 'hello' as the third value? (Assume [2, 4, 6, 8, 10] are in spam.) Let's pretend the spam includes the list ['a', 'b', 'c', 'd'] for the next three queries.
-What is the value of spam[int(int('3' * 2) / 11)]?
+1)What exactly is []?
+
+2)In a list of values stored in a variable called spam, how would you assign the value 'hello' as the third value? (Assume [2, 4, 6, 8, 10] are in spam.) Let's pretend the spam includes the list ['a', 'b', 'c', 'd'] for the next three queries.
+
+3)What is the value of spam[int(int('3' * 2) / 11)]?
 What is the value of spam[-1]?
 What is the value of spam[:2]? Let's pretend bacon has the list [3.14, 'cat,' 11, 'cat,' True] for the next three questions.
 What is the value of bacon.index('cat')?
